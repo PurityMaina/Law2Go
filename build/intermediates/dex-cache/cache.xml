@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/puritymaina/Documents/Law2Go-new/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/puritymaina/Documents/Law2Go-new/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_efad868391afc50ca99ed1376749d8235bc7864b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/puritymaina/.android/build-cache/f28481a9ea067a169a24ecc3bb97236d73e1df8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/puritymaina/Documents/Law2Go-new/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_060d28bdc575563c605219d9aabe143af25323a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/puritymaina/.android/build-cache/ccebf9300b0b1fc8f40ebaccbb07f83206b34ff0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/puritymaina/Documents/Law2Go-new/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5385f0ba08ac4d5a21308bbcfc36d7a74062206a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/puritymaina/Documents/Law2Go-new/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05431609f3a3ad7a43e4862ed97d1640fcd87810">
+        <dex dex="/Users/puritymaina/Documents/Law2Go-new/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_18d48a005f6eb615c0b6532498ed2a0745597565/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/puritymaina/.android/build-cache/b49800dd42b2c7c9a40e7907610c5c33e88b0241/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/puritymaina/Documents/Law2Go-new/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57e0c1bfc531bc033d455f3f21355b743c2a6334/classes.dex" />
+    </item>
+
+</items>

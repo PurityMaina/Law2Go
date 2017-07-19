@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Law2Go</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (required)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register_long">Do not have an account?</string>
+    <string name="action_register_short">Register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- Strings related to the dashboard -->
+
+    <string name="title_activity_dashboard_client">Dashboard_client</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="laws">Laws</string>
+    <string name="legal_advice">Legal Advice</string>
+    <string name="legal_services">Legal Services</string>
+
+    <!-- Strings related to the sign in  -->
+    <string name="title_activity_signin_lawyer">signin_lawyer</string>
+    <string name="title_activity_sigin_client">sigin_client</string>
+    <string name="lawyer">I AM A LAWYER</string>
+    <string name="client">I AM A CLIENT</string>
+    <string name="username">Username: </string>
+    <string name="password">Password:</string>
+    <string name="confirm_password">Confirm Password:</string>
+
+
+
+
+
+
+    <!-- Strings related to side menu -->
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="title_activity_sign_in">Sign in</string>
+
+
+
+</resources>
